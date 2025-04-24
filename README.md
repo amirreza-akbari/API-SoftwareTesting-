@@ -26,7 +26,7 @@ Before getting started, ensure you have the following installed:
 
 - **PHP** >= 7.3
 - **Composer** (PHP dependency manager)
-- **Laravel** >= 8
+- **Laravel** >= 10
 - **MySQL** or **SQLite** for database management
 
 ---
